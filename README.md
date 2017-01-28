@@ -1,5 +1,5 @@
-Training TensorFlow neural network to play Tic-Tac-Toe game using one-step Q-learning algorithm.
-test
+Training TensorFlow neural network to play connect 4 using n-step Q-learning algorithm.
+
 
 Requirements:
   - TensorFlow (https://www.tensorflow.org/versions/r0.10/get_started/os_setup.html)
